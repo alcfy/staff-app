@@ -1,4 +1,4 @@
-# Admin App
+# Staff App
 
 ## How to deploy app and obtain public url for dev purpose
 1. copy your `.secret` to this folder (your firebase credential file should be in this folder)
